@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="S:\HCI-557-CG-master\assignments\Project_Pandora\CMakeFiles\43a79f73116e2e102247f9ecfa2fc6d5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0C1F3B05-83C3-3F42-AF7A-4D3328077FCB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

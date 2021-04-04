@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\main_pandora.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\controls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\HCI557Common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\CoordSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\ImgLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLObjectObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLAppearance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\Shaders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\Sphere3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\HCI557Datatypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\Terrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TerrainTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TreeTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TerrainRivTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TerrainRiv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\EnvMapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\HCI-557-CG-master\assignments\Project_Pandora\EnvMappingTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\controls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\HCI557Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\CoordSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\ImgLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLObjectObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLAppearance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLAppearanceBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\Shaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\Sphere3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\GLSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\HCI557Datatypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\Terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TerrainTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TreeTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TerrainRivTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\TerrainRiv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\EnvMapping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S:\HCI-557-CG-master\assignments\Project_Pandora\EnvMappingTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="S:\HCI-557-CG-master\assignments\Project_Pandora\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0E3E23C9-D636-3674-ACCD-3E46F196C603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CC31988B-6A7E-389A-8401-F014A94014E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
